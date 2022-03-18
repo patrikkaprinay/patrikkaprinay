@@ -1,5 +1,4 @@
 **Hello and welcome!**  
 
-💻 I'm a fullstack developer (Vue.js, Laravel, AdonisJS)  
+💻 I'm a fullstack developer (React, Next, Vue, Laravel)  
 ✨ I like clean code and minimalistic IDE interfaces  
-📖 Currently learning: React, Next.js
