@@ -2,4 +2,4 @@
 
 - 💻 Web developer
 - ✨ I like clean code
-- 🔧 I use Vim btw  
+- 🔧 I use Neovim btw  
